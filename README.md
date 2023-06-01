@@ -4,7 +4,7 @@
 
 ## Usage
 
-- Download the icon set from [here](downloads/devs_folders_icons.zip).
+- Download the icon set from [here](https://devicons.netlify.app/devs_folders_icons).
 - Extract the downloaded file to create a folder. Inside the folder, you will find icons in .ico format.
 - Right-click on the folder you wish to customize and choose "Properties."
 - Go to the "Customize" tab and locate the "Folder icon" section. Click on the "Change icon" button.
