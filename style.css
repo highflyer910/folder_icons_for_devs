@@ -34,9 +34,14 @@ img{
     border: 1px solid #dae9d3;
 }
 
-.section {
+.section{
     border-bottom: 1px solid #9f2402;
     margin-bottom: 20px;
+}
+
+.attribution{
+    border-bottom: 1px solid #9f2402;
+    padding-bottom: 20px;
 }
 
 .download-link {
