@@ -45,13 +45,16 @@ img{
 }
 
 .download-link {
-    padding: 10px 20px;
-    display: inline-block;
+    padding: 5px 16px;
+    display: block;
+    max-width: 300px;
+    width: 100%;
     color: #dae9d3;
     background-color: #9f2402;
     border-radius: 5px;
     text-decoration: none;
-    margin: 20px auto 10px;
+    margin: 10px auto;
+    font-size: 0.8rem;
 }
 
 .download-link:hover {
